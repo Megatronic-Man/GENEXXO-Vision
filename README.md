@@ -8,8 +8,8 @@ In 2011, a simple insight led to a 14-year acquisition strategy: adding "XX" to 
 
 ## Documents
 
-- **[The GENEXXO Vision](GENEXXO%20vision.html)** - Full strategic framework
-- **[The GENEXXO Collection](GENEXXO%20collection.html)** - Domain infrastructure details
+- **[The GENEXXO Vision](https://genexxofounder.github.io/GENEXXO-Vision/GENEXXO%20vision.html)** - Full strategic framework
+- **[The GENEXXO Collection](https://genexxofounder.github.io/GENEXXO-Vision/GENEXXO%20collection.html)** - Domain infrastructure details
 
 ## About
 
